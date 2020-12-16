@@ -1,3 +1,3 @@
 # hackerrank-go
 
-Solutions to HackerRank challenges.
+Solutions to HackerRank challenges in Go
